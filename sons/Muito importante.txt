@@ -1,0 +1,2 @@
+Tive que compactar o som do jogo para caber no Github
+então para funcionar 100% você precisa descompactar ele : 3
